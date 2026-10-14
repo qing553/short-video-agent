@@ -1,0 +1,9 @@
+video_id,category,duration_sec,release_hour,topics,views,clicks,orders,sales
+v1,funny,25,19,trend,20000,3200,480,9600
+v2,funny,35,20,challenge,26000,4100,560,11200
+v3,beauty,18,21,makeup,35000,6200,680,13600
+v4,beauty,22,19,product_demo,43000,7200,820,16400
+v5,tech,28,20,review,40000,6100,640,12800
+v6,tech,32,20,comparison,47000,7800,910,18200
+v7,food,15,18,recipe,15000,2500,350,7000
+v8,food,20,19,lifehack,22000,3600,470,9400
